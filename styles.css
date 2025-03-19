@@ -13,11 +13,11 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 12px 18px;
-    height: 75px;
+    padding: 12px 28px;
+    height: 150px;
     letter-spacing: 0.5px;
-    width: 175px;
-    border-radius: 4px;
+    width: 325px;
+    border-radius: 8px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
 }
 
@@ -28,18 +28,18 @@ body {
 }
 
 .card--details-name {
-    font-size: 0.60rem;
+    font-size: 1.25rem;
     margin-bottom: 4px;
     font-weight: 800;
 }
 
 .card--details-link {
-    font-size: 0.5rem;
+    font-size: 1rem;
 }
 
 .card--img {
-    height: 50px;
-    width: 50px;
+    height: 100px;
+    width: 100px;
     border-radius: 50%;
-    border: 2px solid black;
+    border: 3px solid black;
 }

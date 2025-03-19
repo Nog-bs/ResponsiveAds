@@ -16,3 +16,12 @@ This project shows Pokemon cards based on types, using HTML, CSS, and JavaScript
 
 3.  **Check the Console:**
     -   Look here for any messages from the code in the developer console
+
+## You Should Expect to See
+
+![Card](./assets/images/card.png)
+
+![Output](./assets/images/output.png)
+
+
+## Thank you!
