@@ -1,0 +1,21 @@
+# Dependency directories
+node_modules/
+bower_components/
+
+# Package files
+package-lock.json
+yarn.lock
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+.DS_Store
+
+# IDE specific files
+.idea/
+.vscode/
+
+# System files
+Thumbs.db
